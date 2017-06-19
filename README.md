@@ -1,4 +1,4 @@
-# [Personal: HTML5 website template](http://buckymaler.com/featured-work/personal)
+# [Portfolio: My Portfolio](http://buckymaler.com/featured-work/personal)
 
 Personal is a modern and bold website template suited perfectly for a UI/UX Design professional's portfolio.
 
