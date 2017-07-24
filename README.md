@@ -1,3 +1,3 @@
-# [Portfolio: My Portfolio](https://ronstorm.github.io/)
+# [My Resume](https://ronstorm.github.io/)
 
-Please check-out my portfolio as an iOS Developer here [Portfolio](https://ronstorm.github.io/)
+Please check-out my resume. [RESUME](https://ronstorm.github.io/)
