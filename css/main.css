@@ -345,11 +345,17 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 .work li span{
   float: right;
 }
-.work li h5{
+.work li h6{
   float: left;
+  color: #5bc0de;
 }
 .work li p{
   clear: both;
+}
+
+.work li h4 {
+  float: left;
+  color: #E74C3C;
 }
 
 /* Portfolio */
@@ -409,6 +415,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 }
 .sny-icon-content h4{
   margin-bottom:6px;
+  color: #E74C3C;
 }
 .sny-icon-content p{
   margin-bottom: 0px;
@@ -667,6 +674,10 @@ Change widths as necessary
   .sidebar{
    padding-left: 20px;
    border-left: 1px solid #f1f1f1;
+ }
+
+ .sidebar h5 {
+  color: #E74C3C;
  }
  /* COLUMN GRID */
  .g1,.g2,.g3 {display:inline; float: left}
